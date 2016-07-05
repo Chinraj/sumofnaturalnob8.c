@@ -1,0 +1,1 @@
+# sumofnaturalnob8.c
